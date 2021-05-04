@@ -1,0 +1,25 @@
+{
+  "name": "testing-with-jest",
+  "version": "1.0.0",
+  "description": "lab5 npm",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ak2296/testing-with-jest.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Mohamad Gholinia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ak2296/testing-with-jest/issues"
+  },
+  "homepage": "https://github.com/ak2296/testing-with-jest#readme"
+}
