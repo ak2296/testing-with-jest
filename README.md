@@ -1,5 +1,5 @@
 # testing-with-jest
-jest+nmp lab
+jest + npm lab
 
-## this is a test 
-lab5 nmp and jest
+## this is a test
+lab5 npm and jest
