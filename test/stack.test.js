@@ -23,5 +23,5 @@ test('peek on stack with more than one element return top element after removing
   stack.push("wow");
   stack.push(42);
   stack.pop();
-  expect(stack.peek()).to be("wow")
+  expect(stack.peek()).toBe("wow");
 });
